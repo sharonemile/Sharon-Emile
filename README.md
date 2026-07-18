@@ -1,25 +1,65 @@
-<h1 align="center">Hi 👋, I'm Sharon Emile</h1>
-<h3 align="center">Aspiring AI Engineer | Backend Developer | Figma Enthusiast</h3>
+# Hi there 👋, I'm Sharon Emile
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharonemile&label=Profile%20views&color=0e75b6&style=flat" alt="sharonemile" /> </p>
+## 🚀 About Me
+I am a passionate Backend Developer and UI/UX Designer with an interest in building efficient applications and creating user-friendly interfaces. I enjoy learning new technologies and improving my programming and problem-solving skills.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharonemile" alt="sharonemile" /></a> </p>
+- 🌱 Currently learning Java, Data Structures & Algorithms, and Backend Development
+- 🎨 UI/UX Designer using Figma
+- 💻 Passionate about Software Development
+- 🤝 Open to internships and collaboration
+- 📫 Reach me: sharonemile417@gmail
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 📫 How to reach me **sharonemile417@gmail.com**
+## 🛠️ Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sharonemile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sharonemile" height="30" width="40" /></a>
-</p>
+### Programming Languages
+- Java
+- Python
+- C
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Web Technologies
+- HTML
+- CSS
+- JavaScript (Basics)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharonemile&show_icons=true&locale=en&layout=compact" alt="sharonemile" /></p>
+### UI/UX
+- Figma
+- Wireframing
+- Prototyping
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharonemile&show_icons=true&locale=en" alt="sharonemile" /></p>
+### Tools
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharonemile&" alt="sharonemile" /></p>
+---
 
+## 📂 Featured Projects
+
+### 📅 Online Appointment System
+- UI/UX design created using Figma
+- Clean and responsive interface
+
+### ☕ Java Programs
+- Java fundamentals
+- OOP concepts
+- Data Structures
+
+---
+
+## 🎯 Career Objective
+
+To become a skilled Backend Developer by continuously learning modern technologies and developing real-world applications that solve meaningful problems.
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- GitHub: https://github.com/sharonemile
+
+---
+
+⭐ *"Design. Develop. Deliver."*
